@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "javaextranet",
+            "nativeLanguage": "fr"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "myapp",
+        "packageName": "javaextranet",
+        "packageFolder": "javaextranet",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MGNlMDhiMzhkMGRjMWU3MzVhOTRhMzZjODNjOWRkMmNiNjJkOTQ2OTNjY2NjYzRiMzFmZjExNmEwMmQ4ZTRhNGUxYTZmZDRlNzg4MjI1NzhiNDE2M2U4ZDkwNmVjNDY1ODQxMWQwNzNlYzMzMjI3ZmUwYWM4OTI0YzFmMmM1ZjY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "fr",
+        "languages": ["fr"]
+    }
+}
